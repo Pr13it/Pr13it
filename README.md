@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Pr13it
-- 👀 I’m interested in development stuff
+- 👋 Hi, I’m @Prit
+- 👀  Interested in computers and how all things operate 
   
-- 🌱 I’m currently learning web development
+- 🌱  Currently learning everything 
 
 - 📫 How to reach me  pritmukherjee63@gmail.com
 
